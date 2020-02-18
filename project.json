@@ -3,7 +3,6 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "testlab": "[1.0.1]",
     "UiPath.Excel.Activities": "[2.8.1-preview]",
     "UiPath.Mail.Activities": "[1.8.1-preview]",
     "UiPath.System.Activities": "[20.2.0-preview]",
@@ -31,7 +30,7 @@
       "includeOriginalXaml": false,
       "privateWorkflows": []
     },
-    "fileInfos": []
+    "fileInfoCollection": []
   },
   "arguments": {
     "input": [],
